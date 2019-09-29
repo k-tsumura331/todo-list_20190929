@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: reft;
+}
+.todo-tool {
+  position: absolute;
+  right: 10px;
+}
